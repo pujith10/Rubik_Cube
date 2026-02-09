@@ -6,7 +6,7 @@
   "homepage": "https://pujith66.github.io/Rubik_Cube",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "build:gh": "tsc -b && vite build --base=/Rubik_Cube/",
     "lint": "eslint .",
     "preview": "vite preview",
