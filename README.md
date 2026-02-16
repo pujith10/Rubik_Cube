@@ -72,3 +72,6 @@ export default defineConfig([
   },
 ])
 ```
+
+
+**Note: This doesn't use python or ai so don't give featured tutorials it just teach the rules only
